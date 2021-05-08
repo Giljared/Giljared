@@ -10,8 +10,13 @@ My name is Gilvanete. I am graduated in Mathematics and post-graduated in Teachi
 🌈I share a little of my initial projects as a Front-End Developer.
 
 
-## Rename out👇🏼
+## Social Mídia👇🏼
 
-[Linkedin]([(12) Gilvanete Silva | LinkedIn](https://www.linkedin.com/in/gilvanete-silva/))
-[Facebook]([(10) Da Silva Simplicio Gilvanete | Facebook](https://www.facebook.com/Gil1970/))
-[Instagram]([https://revdigitalag.com/ (@gilmat337) • Fotos e vídeos do Instagram](https://www.instagram.com/gilmat337/))
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/gilvanete-silva/)
+
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/Gil1970/)](https://www.facebook.com/Gil1970/)
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-pink?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gilmat337/)](https://www.instagram.com/gilmat337/)
+
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UC7ZqfQHRlmAm3jszbUGVB_w)](https://www.youtube.com/channel/UC7ZqfQHRlmAm3jszbUGVB_w)
