@@ -7,7 +7,7 @@ My name is Gilvanete. I am graduated in Mathematics and post-graduated in Teachi
 
 🌏I was born in Alagoas. However, I grew up in Pernambuco. I currently live in the state of Rio Grande do sul. And I love change!
 🪐I love the Universe.
-🌈I share a little of my initial projects as a Front-End Developer.
+🌈I share a little of my initial projects as a Developer.
 
 
 ## Social Mídia👇🏼
