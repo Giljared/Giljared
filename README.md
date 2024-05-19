@@ -21,7 +21,16 @@ My name is Gilvanete. I have a degree in Mathematics and Physics, a postgraduate
 
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UC7ZqfQHRlmAm3jszbUGVB_w)](https://www.youtube.com/channel/UC7ZqfQHRlmAm3jszbUGVB_w)
 
-[![Linktree](https://cdn.linktree.com/profile/YOUR_USER_ID/avatar?width=100)](https://linktr.ee/YOUR_USERNAME)
+![miniatura-linktree](./assets/minha%20iamgem%20gil%20sivla.PNG)
+
+## 🔖 Sobre
+
+Linktree é um serviço online para Instagram que permite divulgar os links de todos os seus perfis e sites em um mesmo lugar. Porém, o linktree não oferece tantas opções de personalização, por isso decidi fazer o meu próprio linktree.
+
+## ⚙ Tecnologias
+
+- HTML5
+- CSS3
 
 
 
