@@ -21,7 +21,7 @@ My name is Gilvanete. I have a degree in Mathematics and Physics, a postgraduate
 
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UC7ZqfQHRlmAm3jszbUGVB_w)](https://www.youtube.com/channel/UC7ZqfQHRlmAm3jszbUGVB_w)
 
-![miniatura-linktree](./assets/minha%20iamgem%20gil%20sivla.PNG)
+![miniatura-linktree](https://https://github.com/Giljared/Giljared/blob/main/minha%20iamgem%20gil%20sivla.PNG)
 
 ## 🔖 Sobre
 
