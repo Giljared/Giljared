@@ -23,6 +23,6 @@ My name is Gilvanete. I have a degree in Mathematics and Physics, a postgraduate
 
 [![Linktree](https://cdn.linktree.com/profile/YOUR_USER_ID/avatar?width=100)](https://linktr.ee/YOUR_USERNAME)
 
-![miniatura-linktree](https://user-images.githubusercontent.com/57760301/107883736-63685680-6ecf-11eb-887c-9825be6c9c7e.PNG)
+
 
 
