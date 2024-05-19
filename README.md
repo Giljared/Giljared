@@ -22,3 +22,9 @@ My name is Gilvanete. I have a degree in Mathematics and Physics, a postgraduate
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UC7ZqfQHRlmAm3jszbUGVB_w)](https://www.youtube.com/channel/UC7ZqfQHRlmAm3jszbUGVB_w)
 
 ![miniatura-linktree]([https://user-images.githubusercontent.com/57760301/107883736-63685680-6ecf-11eb-887c-9825be6c9c7e.PNG](https://linktr.ee/gilvanetesilva))
+
+[![Linktree](https://cdn.linktree.com/profile/YOUR_USER_ID/avatar)](https://linktr.ee/)
+
+[![Linktree](https://cdn.linktree.com/profile/gilvanetesilva/avatar)](https://linktr.ee/)
+
+
