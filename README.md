@@ -20,3 +20,5 @@ My name is Gilvanete. I have a degree in Mathematics and Physics, a postgraduate
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-pink?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gilmat337/)](https://www.instagram.com/gilmat337/)
 
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UC7ZqfQHRlmAm3jszbUGVB_w)](https://www.youtube.com/channel/UC7ZqfQHRlmAm3jszbUGVB_w)
+
+![miniatura-linktree](https://user-images.githubusercontent.com/57760301/107883736-63685680-6ecf-11eb-887c-9825be6c9c7e.PNG)
