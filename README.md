@@ -21,7 +21,8 @@ My name is Gilvanete. I have a degree in Mathematics and Physics, a postgraduate
 
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UC7ZqfQHRlmAm3jszbUGVB_w)](https://www.youtube.com/channel/UC7ZqfQHRlmAm3jszbUGVB_w)
 
-![miniatura-linktree](https://https://github.com/Giljared/Giljared/blob/main/minha%20iamgem%20gil%20sivla.PNG)
+![linktreegilvanetesilva](https://github.com/Giljared/Giljared/assets/64940515/08091db3-aa05-4897-aae5-c4d2cc365052)
+
 
 ## 🔖 Sobre
 
@@ -31,6 +32,12 @@ Linktree é um serviço online para Instagram que permite divulgar os links de t
 
 - HTML5
 - CSS3
+
+
+<div align="center">
+<img src="https://github.com/Giljared/Giljared/assets/64940515/6485e968-e008-4fe6-97e0-ccb9eb08af2d" width="300px"/>
+</div>
+
 
 
 
