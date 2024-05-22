@@ -25,6 +25,9 @@ My name is Gilvanete. I have a degree in Mathematics and Physics, a postgraduate
 
 ![linktreegilvanetesilva](https://github.com/Giljared/Giljared/assets/64940515/08091db3-aa05-4897-aae5-c4d2cc365052)
 
+<div align="center">
+<video src="https://github.com/Giljared/Giljared/assets/64940515/5b47442f-1f8e-4e53-893f-45ea548a2b14" width="300px"/>
+</div>
 
 ## 🔖 Sobre
 
@@ -40,6 +43,11 @@ Linktree é um serviço online para Instagram que permite divulgar os links de t
 <img src="https://github.com/Giljared/Giljared/assets/64940515/6485e968-e008-4fe6-97e0-ccb9eb08af2d" width="300px"/>
 </div>
 
+<div align="center">
+<video src="https://github.com/Giljared/Giljared/assets/64940515/817251d1-9046-4295-af61-514db5dac497" width="300px"/>
+</div>
+
+
 <span align="center">
 
 # Meu site pessoal! 👋
@@ -48,9 +56,13 @@ Link: https://gilvanetesilva.com.br/
 </span>
 
 
-
 <div align="center">
 <video src="https://github.com/Giljared/Giljared/assets/64940515/b5edd82d-1aa5-43a9-a3e1-9da224a1b623" width="300px"/>
+</div>
+
+
+<div align="center">
+<video src="https://github.com/Giljared/Giljared/assets/64940515/5485e88b-524a-42ac-a457-773b8cfeace4" width="300px"/>
 </div>
 
 
