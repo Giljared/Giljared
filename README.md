@@ -23,7 +23,18 @@ My name is Gilvanete. I have a degree in Mathematics and Physics, a postgraduate
 
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UC7ZqfQHRlmAm3jszbUGVB_w)](https://www.youtube.com/channel/UC7ZqfQHRlmAm3jszbUGVB_w)
 
-![linktreegilvanetesilva](https://github.com/Giljared/Giljared/assets/64940515/08091db3-aa05-4897-aae5-c4d2cc365052)
+
+<span align="center">
+
+# MY CARD MAGIC! 👋
+Link: https://gilvanetesilva.com.br/card-magico/
+
+</span>
+
+
+<div align="center">
+<video src="https://github.com/Giljared/Giljared/assets/64940515/942c8076-c269-4dc8-b341-3aab8765282e" width="300px"/>
+</div>
 
 <div align="center">
 <video src="https://github.com/Giljared/Giljared/assets/64940515/5b47442f-1f8e-4e53-893f-45ea548a2b14" width="300px"/>
