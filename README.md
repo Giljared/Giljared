@@ -35,6 +35,14 @@ Link: https://gilvanetesilva.com.br/card-magico/
 <div align="center">
 <video src="https://github.com/Giljared/Giljared/assets/64940515/942c8076-c269-4dc8-b341-3aab8765282e" width="300px"/>
 </div>
+<span align="center">
+
+# Minha página de links! 👋
+# Link: https://linktr.ee/gilvanetesilva
+
+</span>
+
+
 
 <div align="center">
 <video src="https://github.com/Giljared/Giljared/assets/64940515/5b47442f-1f8e-4e53-893f-45ea548a2b14" width="300px"/>
