@@ -49,10 +49,24 @@ Linktree é um serviço online para Instagram que permite divulgar os links de t
 - HTML5
 - CSS3
 
+<span align="center">
+
+# Meu link pessoal! 👋
+Link: https://link-gil-silva.netlify.app/
+
+</span>
 
 <div align="center">
+  
 <img src="https://github.com/Giljared/Giljared/assets/64940515/6485e968-e008-4fe6-97e0-ccb9eb08af2d" width="300px"/>
 </div>
+
+<span align="center">
+
+# Meu link pessoal! 👋
+Link: https://link-gil-silva.netlify.app/
+
+</span>
 
 <div align="center">
 <video src="https://github.com/Giljared/Giljared/assets/64940515/817251d1-9046-4295-af61-514db5dac497" width="300px"/>
@@ -71,7 +85,12 @@ Link: https://gilvanetesilva.com.br/
 <video src="https://github.com/Giljared/Giljared/assets/64940515/b5edd82d-1aa5-43a9-a3e1-9da224a1b623" width="300px"/>
 </div>
 
+<span align="center">
 
+# Meu site pessoal! 👋
+[Link: https://gilvanetesilva.com.br/card-magico/
+
+</span>
 <div align="center">
 <video src="https://github.com/Giljared/Giljared/assets/64940515/5485e88b-524a-42ac-a457-773b8cfeace4" width="300px"/>
 </div>
