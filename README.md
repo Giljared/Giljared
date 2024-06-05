@@ -96,12 +96,32 @@ Link: https://gilvanetesilva.com.br/
 <span align="center">
 
 # Meu site pessoal! 👋
-[Link: https://gilvanetesilva.com.br/card-magico/
+Link: https://gilvanetesilva.com.br/card-magico/
 
 </span>
 <div align="center">
 <video src="https://github.com/Giljared/Giljared/assets/64940515/5485e88b-524a-42ac-a457-773b8cfeace4" width="300px"/>
 </div>
+
+
+<span align="center">
+
+# Meu Portfólio! 👋
+# Link: https://portfolio-gil-silva.netlify.app/
+
+</span>
+
+<div align="center">
+  
+<img src="https://github.com/Giljared/Giljared/assets/64940515/6c0536c7-ee57-4491-8b34-4b1abae79b31"/>
+</div>
+
+</span>
+<div align="center">
+<video src="https://github.com/Giljared/Giljared/assets/64940515/f059d8a0-66ca-4f27-97ae-1bd9d4a715b6" width="300px"/>
+</div>
+
+
 
 
 
