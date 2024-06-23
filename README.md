@@ -107,7 +107,7 @@ Link: https://gilvanetesilva.com.br/card-magico/
 <span align="center">
 
 # Meu Portfólio! 👋
-# Link: https://portfolio-gil-silva.netlify.app/
+# Link: https://portfolio-gilvanete-silva.netlify.app/
 
 </span>
 
